@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemosandre
+- 👋 Hi, I’m Andre Lemos
 - 👀 I’m interested in Developer 
 - 📫 How to reach me lemosandrecosta@gmail.com
 
